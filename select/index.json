@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "トワイライト",
+  "base_artist": "Le☆S☆Ca",
+  "createdAt": "2026-02-19T23:56:55.262584Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "モスクワ・トワイライト",
+      "artist": "河合奈保子",
+      "has_synced": false,
+      "path": "select/01_モスクワ・トワイライト_河合奈保子.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トワイライト・クルーズ~TURN IT UP~",
+      "artist": "河合奈保子/Tom Keane",
+      "has_synced": false,
+      "path": "select/02_トワイライト・クルーズ~TURN_IT_UP~_河合奈保子_Tom_Keane.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トワイライト―夕暮れ便り― - 2009リマスター",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/03_トワイライト―夕暮れ便り―_-_2009リマスター_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トワイライト-夕暮れ便り-",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/04_トワイライト-夕暮れ便り-_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "トワイライト –夕暮れ便り–",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/05_トワイライト_–夕暮れ便り–_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "トワイライト-夕暮れ便り-",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/06_トワイライト-夕暮れ便り-_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "トワイライト-夕暮れ便り- (BEST AKINA メモワール Mix)",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/07_トワイライト-夕暮れ便り-_(BEST_AKINA_メモワール_Mix)_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "トワイライト・ファズ",
+      "artist": "THIS IS JAPAN",
+      "has_synced": true,
+      "path": "select/08_トワイライト・ファズ_THIS_IS_JAPAN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "トワイライト-夕暮れ便り- - 2014 Remaster",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/09_トワイライト-夕暮れ便り-_-_2014_Remaster_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "トワイライト・ラプソディー",
+      "artist": "crap clap",
+      "has_synced": false,
+      "path": "select/10_トワイライト・ラプソディー_crap_clap.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "トワイライト",
+      "artist": "YUKI",
+      "has_synced": true,
+      "path": "select/11_トワイライト_YUKI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "トワイライト",
+      "artist": "navy & ivory",
+      "has_synced": false,
+      "path": "select/12_トワイライト_navy_&_ivory.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Twilight, トワイライト",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/13_Twilight,_トワイライト_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "トワイライト",
+      "artist": "Sachika Misawa",
+      "has_synced": true,
+      "path": "select/14_トワイライト_Sachika_Misawa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "トワイライト―夕暮れ便り― <30th anniversary mix>",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/15_トワイライト―夕暮れ便り―__30th_anniversary_mix_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "テラー・トワイライト",
+      "artist": "Helsinki Lambda Club",
+      "has_synced": true,
+      "path": "select/16_テラー・トワイライト_Helsinki_Lambda_Club.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "トワイライト・サイダー",
+      "artist": "鈴木愛奈",
+      "has_synced": true,
+      "path": "select/17_トワイライト・サイダー_鈴木愛奈.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トワイライト",
+      "artist": "Le☆S☆Ca",
+      "has_synced": false,
+      "path": "select/pl_01_トワイライト_Le☆S☆Ca.txt"
+    }
+  ]
+}
